@@ -10,8 +10,8 @@
 </g>
 <g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="2511ba44-3d38-46c7-bb4c-d1f695c8ec89"  >
 </g>
-<g transform="matrix(0.18 0 0 0.18 100 50)" style="filter: url(#SVGID_250);" id="15a8991f-67dd-4b3f-9793-2eb9ad45512d"  >
-<filter id="SVGID_250" y="-65%" height="230%" x="-24%" width="148%" >
+<g transform="matrix(0.18 0 0 0.18 100 59.37)" style="filter: url(#SVGID_250);" id="15a8991f-67dd-4b3f-9793-2eb9ad45512d"  >
+<filter id="SVGID_250" y="-37%" height="174%" x="-24%" width="148%" >
 	<feGaussianBlur in="SourceAlpha" stdDeviation="7"></feGaussianBlur>
 	<feOffset dx="24" dy="24" result="oBlur" ></feOffset>
 	<feFlood flood-color="rgb(41,162,154)" flood-opacity="0.38"/>
@@ -21,6 +21,6 @@
 		<feMergeNode in="SourceGraphic"></feMergeNode>
 	</feMerge>
 </filter>
-		<text xml:space="preserve" font-family="Raleway" font-size="75" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.83; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-131.73" y="23.56" >Allby.</tspan><tspan x="57.93" y="23.56" style="font-weight: 900; ">AI</tspan></text>
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.83; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-351.28" y="62.83" >Allby.</tspan><tspan x="154.48" y="62.83" style="font-weight: 900; ">AI</tspan></text>
 </g>
 </svg>
